@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'effraregular';
+    src: url('../fonts/effra-webfont.eot');
+    src: url('../fonts/effra-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/effra-webfont.woff2') format('woff2'),
+         url('../fonts/effra-webfont.woff') format('woff'),
+         url('../fonts/effra-webfont.ttf') format('truetype'),
+         url('../fonts/effra-webfont.svg#effraregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'efframedium';
+    src: url('../fonts/effra_medium-webfont.eot');
+    src: url('../fonts/effra_medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/effra_medium-webfont.woff2') format('woff2'),
+         url('../fonts/effra_medium-webfont.woff') format('woff'),
+         url('../fonts/effra_medium-webfont.ttf') format('truetype'),
+         url('../fonts/effra_medium-webfont.svg#efframedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'effrabold';
+    src: url('../fonts/effra_bold-webfont.eot');
+    src: url('../fonts/effra_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/effra_bold-webfont.woff2') format('woff2'),
+         url('../fonts/effra_bold-webfont.woff') format('woff'),
+         url('../fonts/effra_bold-webfont.ttf') format('truetype'),
+         url('../fonts/effra_bold-webfont.svg#effrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'effraheavy';
+    src: url('../fonts/effra_heavy-webfont.eot');
+    src: url('../fonts/effra_heavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/effra_heavy-webfont.woff2') format('woff2'),
+         url('../fonts/effra_heavy-webfont.woff') format('woff'),
+         url('../fonts/effra_heavy-webfont.ttf') format('truetype'),
+         url('../fonts/effra_heavy-webfont.svg#effraheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'effralight';
+    src: url('../fonts/effra_light-webfont.eot');
+    src: url('../fonts/effra_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/effra_light-webfont.woff2') format('woff2'),
+         url('../fonts/effra_light-webfont.woff') format('woff'),
+         url('../fonts/effra_light-webfont.ttf') format('truetype'),
+         url('../fonts/effra_light-webfont.svg#effralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'proxima_novaregular';
+    src: url('../fonts/proximanova-regular-webfont.eot');
+    src: url('../fonts/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/proximanova-regular-webfont.woff2') format('woff2'),
+         url('../fonts/proximanova-regular-webfont.woff') format('woff'),
+         url('../fonts/proximanova-regular-webfont.ttf') format('truetype'),
+         url('../fonts/proximanova-regular-webfont.svg#proxima_novaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'proxima_novabold';
+    src: url('../fonts/proximanova-bold-webfont.eot');
+    src: url('../fonts/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/proximanova-bold-webfont.woff2') format('woff2'),
+         url('../fonts/proximanova-bold-webfont.woff') format('woff'),
+         url('../fonts/proximanova-bold-webfont.ttf') format('truetype'),
+         url('../fonts/proximanova-bold-webfont.svg#proxima_novabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
